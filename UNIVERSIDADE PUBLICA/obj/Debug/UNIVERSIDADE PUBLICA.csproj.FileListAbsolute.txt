@@ -1,0 +1,25 @@
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\bin\Debug\UNIVERSIDADE PUBLICA.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\bin\Debug\UNIVERSIDADE PUBLICA.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\bin\Debug\UNIVERSIDADE PUBLICA.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE PUBLICA.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.FrmFormularioPrincipal.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE PUBLICA.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE PUBLICA.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE PUBLICA.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Alunos.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Curso.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Departamento.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Disciplina.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Município.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Oferecimento.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Provincia.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Pré_Requisitos.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Histórico.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.FrmLogin.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.Turma.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.FrmMatricula.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE_PUBLICA.FrmProfessor.resources
+C:\Users\Administrador\Documents\Visual Studio\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\bin\Debug\UNIVERSIDADE PUBLICA.exe.config
+C:\Users\Administrador\Documents\Visual Studio\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE PUBLICA.exe
+C:\Users\Administrador\Documents\Visual Studio\Visual Studio 2012\Projects\Aplicações Windows Form\UNIVERSIDADE PUBLICA\UNIVERSIDADE PUBLICA\obj\Debug\UNIVERSIDADE PUBLICA.pdb
